@@ -1,4 +1,4 @@
-# Terraform AWS VPC with Peering Dynamic
+# Terraform AWS VPC with Dynamic Peering
 
 Demo Terraform code to create peered VPCs in two AWS regions using dynamically generated info.
 
